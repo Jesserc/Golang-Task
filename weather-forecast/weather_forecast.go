@@ -1,11 +1,10 @@
 /*
-Package weather: Because we're dealing with a code for the Goblinocus weather report, this is the package title of this go file.
-The package contains details about the weather condition in Goblinocus.
+Package weather provides tools for us to give weather forecast for Goblinocus.
 */
 package weather
 
 /*
-CurrentCondition holds the value for the current weather condition in Goblinocu.
+CurrentCondition holds the value for the current weather condition in Goblinocus.
 */
 var CurrentCondition string
 
